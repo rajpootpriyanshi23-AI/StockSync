@@ -10,7 +10,7 @@ class Stock {
     }
 }
 
-public class Main {
+public class StockSync {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
